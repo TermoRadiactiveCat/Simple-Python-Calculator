@@ -5,6 +5,8 @@
 
 # 🇷🇺 Русская версия
 
+**Данный проект больше не поддерживается в силу разработки нового Holmium File Explorer: https://github.com/TermoRadiactiveCat/Holmium-File-Explorer.git**
+
 ## 📄 Описание (v1.0.0)
 
 Дорогие друзья (если таковые имеются), на этот раз я решил представить вам ещё один свой проект: простой калькулятор написанный на языке программирования Python **(Simple Python Calculator)**, т.к я программирую именно на нём. **Simple Python Calculator** использует следующие библиотеки:
@@ -19,6 +21,8 @@
 **Готовое .exe приложение находится в разделе Releases**
 
 # 🇬🇧 English version
+
+**This project is no longer supported, as a new one is being developed Holmium File Explorer: https://github.com/TermoRadiactiveCat/Holmium-File-Explorer.git**
 
 ## 📄 Description (v1.0.0)
 
